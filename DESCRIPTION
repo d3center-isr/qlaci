@@ -1,0 +1,10 @@
+Package: qlaci
+Type: Package
+Title: Q-Learning: A Data Analysis Method for Constructing Adaptive Interventions
+Version: 1.0
+Date: 2012-08-22
+Author: Kun Deng, Ashkan Ertefaie and Susan Murphy
+Maintainer: Kun Deng <kundeng@umich.edu>
+Description: The "qlaci package" implements a generalization of Q-learning, a method developed in computer science, to inform the development of adaptive interventions. This package uses the Adaptive Confidence Interval (ACI) method developed by Laber et al. [2010] to construct the confidence intervals.
+Depends: R(>= 2.12.0)
+License: GPL (version 2 or later)
